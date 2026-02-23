@@ -35,6 +35,6 @@ Note if your in a chair and you get downed your tracking breaks due to how anoma
 
 --Zone Prefabs--
 
-the fire zone fires tics on an interval on the fire layer (31)
+the fire zone fires a tic on an interval on the fire layer (31)
 
 the water zone makes player immune from fire (31) and cancels effect on that layer
