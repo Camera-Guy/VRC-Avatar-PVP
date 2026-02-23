@@ -6,7 +6,8 @@ An optimized easy to edit World based Avatar PVP system
 
 install the Layer and Collision setup
 Under tools click on it
-go to a game object to see if the layers have been created
+click on a game object and see the layers in the inspector
+(this tool can be used for Avatars too)
 
 install the Avatar PVP
 add the prefab to your scene
