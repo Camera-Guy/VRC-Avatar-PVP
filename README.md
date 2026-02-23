@@ -1,5 +1,5 @@
 # VRC-Avatar-PVP
-A local optimized easy to edit World based Avatar PVP system
+A local optimized easy to edit World based Avatar particle PVP system
 
 
 --Setup--
