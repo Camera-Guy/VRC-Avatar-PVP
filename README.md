@@ -1,6 +1,7 @@
 # VRC-Avatar-PVP
 A local optimized easy to edit World based Avatar PVP system
 
+APP T cost 1.5 Ms on Quest 2
 
 --Setup--
 
