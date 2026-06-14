@@ -29,7 +29,7 @@ this stops the coliders from collision testing everything killing performance
 yet Particals can still colide,
 any mesh can be used as a colider but the more polygons the more performance it eats when you get hit,
 
-Downed station is a chair with a downed animation that when the player gets downed gets teleported to the players location and on the next frame the player is forced into it,
+Downed station is a chair with a downed animation that when the player gets downed it gets teleported to the players location and on the next frame the player is forced into it,
 Note if your in a chair and you get downed your tracking breaks due to how anomalous the VRC station script is.
 (you can't eject player from all chairs only referenced ones.)
 
